@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Satoru Gojo's Personal Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1f1f1f;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      text-align: center;
+    }
+    p {
+      text-align: justify;
+    }
+    .jujutsu-kaisen-logo {
+      display: block;
+      margin: 20px auto;
+      max-width: 200px;
+    }
+    .combat-system {
+      text-align: center;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Satoru Gojo's Personal Page</h1>
+    <img class="jujutsu-kaisen-logo" src="jujutsu_kaisen_logo.png" alt="Jujutsu Kaisen Logo">
+    <h2>About Me</h2>
+    <p>I'm Satoru Gojo, a sorcerer from the Jujutsu Kaisen universe. Known for my exceptional abilities and enigmatic personality, I strive to protect the world from curses.</p>
+    <h2>Combat System</h2>
+    <div class="combat-system">
+      <h3>Iconic Attacks</h3>
+      <p>Experience thrilling battles with iconic attacks from the Jujutsu Kaisen series:</p>
+      <ul>
+        <li>Satoru Gojo's Infinity</li>
+        <li>Toji Fushiguro's Cursed Techniques</li>
+      </ul>
+    </div>
+    <h2>Contact Me</h2>
+    <p>You can reach out to me through my social media profiles:</p>
+    <ul>
+      <li><a href="https://twitter.com/satoru_gojo">@satoru_gojo</a> on Twitter</li>
+      <li><a href="https://instagram.com/satoru_gojo">satoru_gojo</a> on Instagram</li>
+    </ul>
+  </div>
+</body>
+</html>
